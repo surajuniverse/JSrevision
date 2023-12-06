@@ -1,3 +1,5 @@
 # JSrevision
 All esencial javascript for having good foundation for React
-Author -Suraj verma
+<br/>
+<h3>Author -Suraj verma</h3>
+
