@@ -1,2 +1,3 @@
 # JSrevision
-All esensial javascript for having good foundation for React
+All esencial javascript for having good foundation for React
+Author -Suraj verma
