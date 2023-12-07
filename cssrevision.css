@@ -1,0 +1,19 @@
+div{
+    height: 50vh;
+    width: 45%;
+    padding: 3px;
+    border: 2px solid rgb(59, 29, 29);
+}
+
+div form  h2{
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    align-items: center;
+    justify-content: center;
+    height: 49vh;
+    width: 99%;
+    border: 3px solid rgb(40, 61, 92);
+}
