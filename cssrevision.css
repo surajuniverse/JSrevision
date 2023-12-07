@@ -11,8 +11,7 @@ div form  h2{
 }
 
 form{
-    align-items: center;
-    justify-content: center;
+
     height: 49vh;
     width: 99%;
     border: 3px solid rgb(40, 61, 92);
